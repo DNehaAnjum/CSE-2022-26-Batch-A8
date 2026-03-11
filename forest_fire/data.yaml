@@ -1,0 +1,9 @@
+path: C:/Users/nehaa/Downloads/forest_fire/forest_fire_yolo
+
+train: images/train
+val: images/val
+
+nc: 2
+names:
+  0: Fire
+  1: Non_Fire
